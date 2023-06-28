@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "VARshrink"]
 	path = VARshrink
 	url = https://github.com/namgillee/varshrink
-	shallow = true
-	registered = true
